@@ -1,0 +1,6 @@
+C:\Users\xanda\source\repos\EpubReaderQt\x64\Debug\bz2d.dll
+C:\Users\xanda\source\repos\EpubReaderQt\x64\Debug\bz2d.pdb
+C:\Users\xanda\source\repos\EpubReaderQt\x64\Debug\zip.dll
+C:\Users\xanda\source\repos\EpubReaderQt\x64\Debug\zip.pdb
+C:\Users\xanda\source\repos\EpubReaderQt\x64\Debug\zlibd.pdb
+C:\Users\xanda\source\repos\EpubReaderQt\x64\Debug\zlibd1.dll
