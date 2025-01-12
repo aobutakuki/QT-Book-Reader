@@ -22,3 +22,6 @@ Packages:
 
 -Pugixml
 
+
+Note:
+The functions must be updated since this program extracts the epub files to a random temp file it creates.
